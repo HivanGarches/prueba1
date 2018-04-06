@@ -1,6 +1,6 @@
 package model;
 
-//solo comentario para probar git gui
+//solo comentario para probar git gui patatin patatan
 import java.util.ArrayList;
 import java.util.List;
 
