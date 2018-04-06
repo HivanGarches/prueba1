@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;Recolector.java&apos; to &apos;24-TDado/src/utiles&apos;&#x0D;&#x0A;- Original project: &apos;49-Divisiones&apos;&#x0D;&#x0A;- Destination element: &apos;24-TDado/src/utiles&apos;&#x0D;&#x0A;- Original element: &apos;utilidades.Recolector.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="=24-TDado/src&lt;utiles" element1="/src&lt;utilidades{Recolector.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1522693648962" units="1" version="1.0"/>
+</session>

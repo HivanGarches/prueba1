@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ExternalProjectImportWizard">
+		<item value="false" key="WizardProjectsImportPage.STORE_NESTED_PROJECTS"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\Users\admin\Desktop\Ejercicios\Java\ejercicios hechos por otros\Ejercicios Diego"/>
+			<item value="C:\Users\admin\Desktop\Ejercicios\ejercicios hechos por mi"/>
+			<item value="C:\Users\admin\Desktop\Ejercicios resueltos\Ejercicios Diego"/>
+			<item value="C:\Users\admin\Desktop\Ejercicios resueltos\Ejercicios Sergio"/>
+			<item value="C:\Users\admin\Desktop\Ejercicios resueltos\Ejercicios profesor"/>
+			<item value="C:\Users\admin\Desktop\Ejercicios resueltos\Ejercicios Victoria\Java Sencillo"/>
+			<item value="C:\Users\admin\Desktop\Ejercicios\JavaSeMIO"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
+</section>

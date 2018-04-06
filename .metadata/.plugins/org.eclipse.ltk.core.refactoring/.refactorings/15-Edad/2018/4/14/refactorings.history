@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Lector.java&apos; to &apos;14-SumadordePares/src/utilidades&apos;&#x0D;&#x0A;- Original project: &apos;15-Edad&apos;&#x0D;&#x0A;- Destination element: &apos;14-SumadordePares/src/utilidades&apos;&#x0D;&#x0A;- Original element: &apos;utilidades.Lector.java&apos;" description="Copy compilation unit" destination="=14-SumadordePares/src&lt;utilidades" element1="/src&lt;utilidades{Lector.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1522691028301" units="1" version="1.0"/>
+</session>

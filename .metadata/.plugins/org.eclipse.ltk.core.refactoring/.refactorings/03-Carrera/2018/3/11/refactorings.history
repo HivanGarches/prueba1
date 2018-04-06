@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Recolector.java&apos; to &apos;49-Divisioness/src/control&apos;&#x0D;&#x0A;- Original project: &apos;03-Carrera&apos;&#x0D;&#x0A;- Destination element: &apos;49-Divisioness/src/control&apos;&#x0D;&#x0A;- Original element: &apos;utilidades.Recolector.java&apos;" description="Copy compilation unit" destination="=49-Divisioness/src&lt;control" element1="/src&lt;utilidades{Recolector.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1521134591210" units="1" version="1.0"/>
+</session>

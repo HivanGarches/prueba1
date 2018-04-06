@@ -1,0 +1,10 @@
+package model;
+
+import model.Fecha;
+
+public class Examen {
+
+		private String asignatura, aula;
+		private Fecha fecha;
+		private Hora hora;
+}
